@@ -1,0 +1,10 @@
+API:
+1. api: npm add express mongoose dotenv helmet morgan nodemon bcrypt
+2. .env file for MongoDB
+
+CLIENT:
+1. npm install @material-ui/core
+2. npm add @material-ui/icons
+3. npm add react-router-dom
+
+npm start
